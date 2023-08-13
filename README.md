@@ -1,2 +1,2 @@
-# instagram-botter
+# view-botter
 botter 
