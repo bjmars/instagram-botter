@@ -45,10 +45,10 @@ def __main__:
        else if choose=="3":
           print("welcome to the followers botter for Instagram") 
               print("")
-                  print("please donate $5 to this paypal to access the follower gen")
+                  print("please donate $10 to this paypal to access the follower gen")
               btc.ppl("https://paypal.me/wromos") # may not work from september to december 2022
        btc.checkForTransac("local --ip & paypal.com/me")
-            if transac == True:
+            if transac == False:
                   print('welcome to the gen')
                       &&code.acces('repl.fllwrs-code')
        else:
